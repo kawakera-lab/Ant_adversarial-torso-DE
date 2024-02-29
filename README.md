@@ -1,3 +1,5 @@
 # adversarial-attack-DE
 _differentialevolution_OwnUseのファイルはscipyのファイルを自分用に加筆したものなので
 ライブラリをpip installしたあとで編集して使ってください
+
+main_de.pyを実行するとcsvで敵対的摂動が保存されます
